@@ -1,7 +1,9 @@
 # Pc Shop Tycoon
 
-This is a prototype for what was supposed to be a 3d computer building game.
+Pc Shop Tycoon is a prototype for a first-person computer building game.
 
-This game was made using Unity3D and C#. This is my first and only 3D game.
+Pc Shop Tycoon was made using Unity3D and C#.
 
-I made this after not messing around with Unity for about 2 years. It turned out decent for a first game anyway. It's basically fully functional, just lacks features that were gonna be in the full game.
+In Pc Shop Tycoon the player builds a computer and sells it. Building a computer consists of many components. These components are the case, motherboard cpu, gpu, ram, graphics card, power supply, and storage.
+
+A playable prototype of Pc Shop Tycoon was made after only 3 days of development.
